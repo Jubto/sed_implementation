@@ -1,4 +1,4 @@
-## sed_implementation-Perl
+## sed_implementation
 
 This perl program implements some of the most important command of sed
 - The following sed commands are implemented: q p d s : b t a c i
